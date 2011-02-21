@@ -19,9 +19,17 @@ This plugin was designed as a simple mechanism by which you can do A-B split tes
 3. Active the plugin from the Plugins page.
 4. Go to settings page to configure AB-SplitScript
 
+
 == Configuration == 
 
 Simply add the two different versions of the script code in the settings page and click save!
+
+
+== Planned features == 
+
+* Configurable bias for non-50/50 splitting.
+* Reset button for counts
+
 
 == Changelog ==
 
